@@ -1,0 +1,32 @@
+{
+  "name": "fullec",
+  "version": "1.0.0",
+  "description": "Wszustko w jednym sklepie",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/znienacka/fullec.git"
+  },
+  "keywords": [
+    "Sklep"
+  ],
+  "author": "portale@t.pl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/znienacka/fullec/issues"
+  },
+  "homepage": "https://github.com/znienacka/fullec#readme"
+}
