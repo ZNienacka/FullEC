@@ -5,7 +5,7 @@
   "main": "index.js",
   "directories": {
     "example": "examples",
-    "test": "test"
+    "test": "make test"
   },
   "dependencies": {
     "chai": "^3.5.0"
